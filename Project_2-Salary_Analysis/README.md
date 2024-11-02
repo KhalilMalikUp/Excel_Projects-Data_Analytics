@@ -1,6 +1,6 @@
 # Salary Analysis Dashboards
 ## Introduction
-As a current job seeker, I'm suprised by the lack of data while exploring the most optimal jobs and skills in the data science market. Hopefully these findings will help people like me understand what skills top employers want and how to land more pay.
+As a current job seeker, I'm surprised by the lack of data while exploring the most optimal jobs and skills in the data science market. Hopefully these findings will help people like me understand what skills top employers want and how to land more pay.
 
 ### Questions to Analyze
 TO understand the data science job market, I asked the following:
