@@ -10,7 +10,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 ![1 Salary Dashboard Final Dashboard](https://github.com/user-attachments/assets/86a91629-35fa-44d2-9bb6-a939bc992757)
 
 ## Salary Analysis
-As a current job seeker, I'm suprised by the lack of data while exploring the most optimal jobs and skills in the data science market. Hopefully these findings will help people like me understand what skills top employers want and how to land more pay.
+As a current job seeker, I'm surprised by the lack of data while exploring the most optimal jobs and skills in the data science market. Hopefully these findings will help people like me understand what skills top employers want and how to land more pay.
 
 [Checkout my work here](Project_2-Salary_Analysis)
 
