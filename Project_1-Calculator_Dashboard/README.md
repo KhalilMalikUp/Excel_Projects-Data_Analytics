@@ -62,7 +62,32 @@ The dataset includes detailed information on:
 - **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
 -  **Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type.
 
-🗠Background Table
-![Data Table]
+🗠Background Table 
+
+![Data Table](https://github.com/user-attachments/assets/19ddf9ce-a64f-4c4a-b89a-1bdc86507ad3)
+
+📈Dashboard Implementation
+
+![Bar Chart](https://github.com/user-attachments/assets/d34543d1-bece-4ab4-9a54-bddb7afa0f0f)
+
+### Count of Job Schedule Type
+`=FILTER(J2#,(NOT(ISNUMBER(SEARCH("and", J2#)) + ISNUMBER(SEARCH(","J2#)))) * (J2#<>0))`
+
+- **🔎Unique List Generation:** This Excel formula below emplys the `FILTER() ` function to exclude entries containing "and" or commas, and omit zero values.
+- **#️⃣Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
+
+🗠Background Table 
+  
+![Type Table](https://github.com/user-attachments/assets/75baf988-d50a-47aa-b364-86482020835e)
+
+📈Dashboard Implementation
+
+![Type Chart](https://github.com/user-attachments/assets/16ccadeb-9d8e-469a-b096-91a00d22bb16)
+
+## Conclusion 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utizling data from the Excel database provided, this dashboard allows users to make informed decisions about their career paths. 
+
+
+
 
 
