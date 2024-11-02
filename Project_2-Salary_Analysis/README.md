@@ -13,7 +13,7 @@ TO understand the data science job market, I asked the following:
 ### Excel Skills Used
 The following Excel skills were utilized for analysis:
 
-- 📊Pivot Tables
+- 📊PivotTables
 - 📈Pivot Charts
 - #️⃣DAX (Data Analysis Expressions)
 - 🔎Power Query
