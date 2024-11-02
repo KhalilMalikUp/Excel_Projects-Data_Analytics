@@ -1,4 +1,4 @@
-# Excel Salary Dashboard
+# Excel Salary Calculator Dashboard
 
 ![Dashboard Gif](https://github.com/user-attachments/assets/25700a12-df9c-4866-9fde-cc04da696da4)
 
