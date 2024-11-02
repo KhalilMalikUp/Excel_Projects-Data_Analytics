@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
+This data jobs salary calculator dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
 ### Dashboard File
 The dashboard can be downloaded at the top of the page or from [here](Salary_Calculator_Dashboard.xlsx).
