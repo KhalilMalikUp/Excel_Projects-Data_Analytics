@@ -45,3 +45,24 @@ The dataset includes detailed information on:
 - **🧠Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
 ## Formulas and Functions
+### 💰Median Salary by Job Titles
+```
+=MEDIAN(
+  IF(
+    (jobs[job_title_short]=A2)*
+    (jobs[salary_year_avg]<>0)*
+    (jobs[job_country]=country)*
+    (ISNUMBER(SEARCH(type,jobs[job_schedule_type]))),
+    jobs[salary_year_avg]
+  )
+)
+```
+- **Multi-Criteria Filtering:** Checks job title, country, schedule type, and excludes blank salaries.
+- **Array Formula:** Utilizes `MEDIAN()` function with nested `IF()` statement to analyze an array.
+- **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
+-  **Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type.
+
+🗠Background Table
+![Data Table]
+
+
